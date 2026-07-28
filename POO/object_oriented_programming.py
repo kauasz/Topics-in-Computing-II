@@ -1,6 +1,4 @@
-# ========== Exercício 5 - POO ========== //
 # Nome: Kauã de Souza Ferreira.
-# Número USP: 13679395
 
 class Calculo:
     def __init__(self, a, b, n): # Declaração do construtor.
